@@ -15,4 +15,3 @@ finishing your testing.
                 detailed item information will be displayed.
 
 Enjoy =)
-Zhishen
